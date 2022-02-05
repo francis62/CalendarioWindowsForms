@@ -1,0 +1,12 @@
+C:\Users\franm\source\repos\CalendarioPrueba2\CalendarioPrueba2\bin\Debug\CalendarioPrueba2.exe.config
+C:\Users\franm\source\repos\CalendarioPrueba2\CalendarioPrueba2\bin\Debug\CalendarioPrueba2.exe
+C:\Users\franm\source\repos\CalendarioPrueba2\CalendarioPrueba2\bin\Debug\CalendarioPrueba2.pdb
+C:\Users\franm\source\repos\CalendarioPrueba2\CalendarioPrueba2\obj\Debug\CalendarioWindowsForms.csproj.AssemblyReference.cache
+C:\Users\franm\source\repos\CalendarioPrueba2\CalendarioPrueba2\obj\Debug\CalendarioPrueba2.Calendario.resources
+C:\Users\franm\source\repos\CalendarioPrueba2\CalendarioPrueba2\obj\Debug\CalendarioPrueba2.Login.resources
+C:\Users\franm\source\repos\CalendarioPrueba2\CalendarioPrueba2\obj\Debug\CalendarioPrueba2.Properties.Resources.resources
+C:\Users\franm\source\repos\CalendarioPrueba2\CalendarioPrueba2\obj\Debug\CalendarioWindowsForms.csproj.GenerateResource.cache
+C:\Users\franm\source\repos\CalendarioPrueba2\CalendarioPrueba2\obj\Debug\CalendarioWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\franm\source\repos\CalendarioPrueba2\CalendarioPrueba2\obj\Debug\CalendarioPrueba2.exe
+C:\Users\franm\source\repos\CalendarioPrueba2\CalendarioPrueba2\obj\Debug\CalendarioPrueba2.pdb
+C:\Users\franm\source\repos\CalendarioPrueba2\CalendarioPrueba2\obj\Debug\CalendarioPrueba2.RegistrarUsuario.resources
